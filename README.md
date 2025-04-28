@@ -10,6 +10,11 @@
 - Django - Python Web Framework
 - Bootstrap 5 - Frontend Framework
 - HTML5, CSS3, JavaScript (Vanilla)
+## วิธีการติดตั้ง
+1. Clone โปรเจกต์
+2. สร้าง Virtual Environment
+3. ติดตั้งแพ็กเกจ
+4. รันเซิร์ฟเวอร์
 ## 📷 ตัวอย่างหน้าจอ (Screenshots)
 ### ฟอร์มบันทึกกิจกรรม
 ![3](https://github.com/user-attachments/assets/969e67ad-6dd5-4348-b30d-2c506f89d81c)
@@ -21,8 +26,8 @@
 ![6](https://github.com/user-attachments/assets/7500bd76-d8c6-46c9-a9cc-1b7a83690b26)
 ## 📁 โครงสร้างโปรเจกต์ (Project Structure)
 ```bash
-/score
-    /core
+/ชื่อโปรเจกต์
+    /แอป
         templates/
             form.html
             list.html
@@ -30,5 +35,4 @@
         views.py
         urls.py
     manage.py
-    requirements.txt
     README.md
