@@ -10,3 +10,5 @@
 - Django - Python Web Framework
 - Bootstrap 5 - Frontend Framework
 - HTML5, CSS3, JavaScript (Vanilla)
+## 📷 ตัวอย่างหน้าจอ (Screenshots)
+ฟอร์มบันทึกกิจกรรม
