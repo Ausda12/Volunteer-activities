@@ -19,6 +19,7 @@
 ![2](https://github.com/user-attachments/assets/69e0f4f8-9c5c-47a3-9a9e-fd108225f654)
 ![3](https://github.com/user-attachments/assets/a4b9b8ea-99a7-41b4-b7ae-c8781ca47d95)
 ![6](https://github.com/user-attachments/assets/7500bd76-d8c6-46c9-a9cc-1b7a83690b26)
+## 📁 โครงสร้างโปรเจกต์ (Project Structure)
 ```bash
 /score
     /core
