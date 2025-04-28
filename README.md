@@ -10,11 +10,6 @@
 - Django - Python Web Framework
 - Bootstrap 5 - Frontend Framework
 - HTML5, CSS3, JavaScript (Vanilla)
-## วิธีการติดตั้ง
-1. Clone โปรเจกต์
-2. สร้าง Virtual Environment
-3. ติดตั้งแพ็กเกจ
-4. รันเซิร์ฟเวอร์
 ## 📷 ตัวอย่างหน้าจอ (Screenshots)
 ### ฟอร์มบันทึกกิจกรรม
 ![3](https://github.com/user-attachments/assets/969e67ad-6dd5-4348-b30d-2c506f89d81c)
@@ -24,6 +19,20 @@
 ![2](https://github.com/user-attachments/assets/69e0f4f8-9c5c-47a3-9a9e-fd108225f654)
 ![3](https://github.com/user-attachments/assets/a4b9b8ea-99a7-41b4-b7ae-c8781ca47d95)
 ![6](https://github.com/user-attachments/assets/7500bd76-d8c6-46c9-a9cc-1b7a83690b26)
+## วิธีการติดตั้ง
+1. Clone โปรเจกต์
+2. สร้าง Virtual Environment
+3. ติดตั้งแพ็กเกจ
+4. รันเซิร์ฟเวอร์
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+python -m venv venv
+source venv/bin/activate  # หรือ venv\Scripts\activate บน Windows
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+```
 ## 📁 โครงสร้างโปรเจกต์ (Project Structure)
 ```bash
 /ชื่อโปรเจกต์
@@ -36,3 +45,4 @@
         urls.py
     manage.py
     README.md
+```
